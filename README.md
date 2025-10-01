@@ -16,3 +16,7 @@ docker run -d -p 5000:5000 ml-flask-api:1.0
 
 
 ![Texto alternativo](/imagenes/imagen3.png)
+
+
+
+![Prueba de envío de predicciones mediante POST](/imagenes/imagen4.png)
