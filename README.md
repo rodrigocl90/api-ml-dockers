@@ -10,7 +10,7 @@ docker build -t ml-flask-api:1.0 .
 docker run -d -p 5000:5000 ml-flask-api:1.0
 
 
-![Texto alternativo](/imagenes/imagen1.png)
+![API de Machine Learning que ha sido dockerizada, construida y actualmente está funcionando y lista para recibir solicitudes en el puerto 8080](/imagenes/imagen1.png)
 
 ![Texto alternativo](/imagenes/imagen2.png)
 
