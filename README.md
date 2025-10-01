@@ -15,4 +15,4 @@ docker run -d -p 5000:5000 ml-flask-api:1.0
 ![Texto alternativo](/imagenes/imagen2.png)
 
 
-![Texto alternativo](/imagenes/imagen3.png)
+![Texto alternativo](/imagenes/imagen 3.png)
