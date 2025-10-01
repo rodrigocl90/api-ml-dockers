@@ -15,6 +15,7 @@ API de Machine Learning que ha sido dockerizada, construida y actualmente está 
 
 ![Texto alternativo](/imagenes/imagen2.png)
 
+Este endpoint se utiliza para verificar el estado de la aplicación. Sirve como check de salud (health check) para confirmar que el servicio está corriendo correctamente.
 
 ![Texto alternativo](/imagenes/imagen3.png)
 
