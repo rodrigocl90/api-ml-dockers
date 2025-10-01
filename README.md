@@ -13,9 +13,11 @@ API de Machine Learning que ha sido dockerizada, construida y actualmente está 
 
 ![API de Machine Learning que ha sido dockerizada, construida y actualmente está funcionando y lista para recibir solicitudes en el puerto 8080](/imagenes/imagen1.png)
 
+Este endpoint se utiliza para verificar el estado de la aplicación. Sirve como check de salud (health check) para confirmar que el servicio está corriendo correctamente.
+
 ![Texto alternativo](/imagenes/imagen2.png)
 
-Este endpoint se utiliza para verificar el estado de la aplicación. Sirve como check de salud (health check) para confirmar que el servicio está corriendo correctamente.
+Este endpoint se utiliza para ver información del modelo 
 
 ![Texto alternativo](/imagenes/imagen3.png)
 
